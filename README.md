@@ -1,6 +1,6 @@
 # Active Record Associations in Sinatra
 
-## Objectives
+# Objectives
 
 1. Understand primary and foreign key.
 2. Understand the has many/ belongs to relationship.
